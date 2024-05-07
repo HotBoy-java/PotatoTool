@@ -373,5 +373,6 @@
 # 七、获取方式
 
 - GitHub链接：[https://github.com/HotBoy-java/PotatoTool/releases/tag/Release](https://github.com/HotBoy-java/PotatoTool/releases/tag/Release)
+- 启动命令后+debug，可打印解密报错，用于提交bug信息（例：java -jar xxx.jar debug）
 - 推荐使用java11+，性能更高
 - **启动密码：potato520**
