@@ -402,6 +402,15 @@
 
 	Q:启动失败，报错 mach-o file, but is an incompatible architecture (have 'x86_64', need 'arm64e' or 'arm64')
  	A:非常抱歉，目前发现在Mac上的M系列处理器的兼容性还有待改进。即使在1.8版本中能够运行，但涉及到反序列化时可能会遇到问题。这种情况下建议您在虚拟机中使用。【已经计划在下一个版本中改进对M系列处理器的兼容性】
+  
+
+	Q:自带的AI,交互问答时，传输给AI的信息会自动缺失最后一个字符（比如用户发送：现在你是一名老师  服务端收到的：现在你是一名老）
+ 	A:现在的UI存在的bug，导致传输时剔除掉用户问题最后一个字符，临时解决办法是问题后面加上句号或其他结束符号。【已经计划在下一个版本中改进】
+
+
+	Q:自带的AI,交互问答时，在询问关于POC编写等敏感信息时拒绝回答
+ 	A:模型暂未添加sa，后续会对内置模型进行针对性sa训练，临时解决办法是根据网上bypass方案进行询问（注意，因资源有限，且使用人较多，故服务端未开启上下文对话模式）【因资源问题，优化周期比较久】
+
 
 ## 帮宝子点个star吧，Stargazers over time
 [![Stargazers over time](https://starchart.cc/HotBoy-java/PotatoTool.svg?variant=adaptive)](https://starchart.cc/HotBoy-java/PotatoTool)
