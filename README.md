@@ -398,3 +398,7 @@
 
 	Q:内测版能公布么
  	A:内部版暂不对外开放，UI上有很多bug，功能上也没有进行全面测试。但是后面会陆续开放，不会存在收费问题
+
+## 帮宝子点个star吧，Stargazers over time
+[![Stargazers over time](https://starchart.cc/HotBoy-java/PotatoTool.svg?variant=adaptive)](https://starchart.cc/HotBoy-java/PotatoTool)
+
