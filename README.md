@@ -399,6 +399,10 @@
 	Q:内测版能公布么
  	A:内部版暂不对外开放，UI上有很多bug，功能上也没有进行全面测试。但是后面会陆续开放，不会存在收费问题
 
+
+	Q:启动失败，报错 mach-o file, but is an incompatible architecture (have 'x86_64', need 'arm64e' or 'arm64')
+ 	A:非常抱歉，目前发现在Mac上的M系列处理器的兼容性还有待改进。即使在1.8版本中能够运行，但涉及到反序列化时可能会遇到问题。这种情况下建议您在虚拟机中使用。【已经计划在下一个版本中改进对M系列处理器的兼容性】
+
 ## 帮宝子点个star吧，Stargazers over time
 [![Stargazers over time](https://starchart.cc/HotBoy-java/PotatoTool.svg?variant=adaptive)](https://starchart.cc/HotBoy-java/PotatoTool)
 
