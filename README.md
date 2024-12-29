@@ -227,14 +227,11 @@
 |:---:|:---:|
 | idea | 支持 |
 | procyon | 支持 |
+| 批量反编译 | 支持 |
 
 		设置中可配置默认反编译器
 
-![在这里插入图片描述](https://i-blog.csdnimg.cn/blog_migrate/18f0817568935b2e45b02847e2aaef87.png)
-
-- 版本计划
-
-		支持批量反编译
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/a6fd45f9bce7487593b6e544a342da79.png)
 
 ### 1.6 区块链溯源
 - 支持钱包地址查询
