@@ -4,7 +4,7 @@
 
 这款工具是一款功能强大的网络安全综合工具，旨在为安全从业者、红蓝对抗人员和网络安全爱好者提供全面的网络安全解决方案。它集成了多种实用功能，包括解密、分析、扫描、溯源等，为用户提供了便捷的操作界面和丰富的功能选择。
 
-- GitHub链接：[https://github.com/HotBoy-java/PotatoTool/releases/tag/Release](https://github.com/HotBoy-java/PotatoTool/releases/tag/Release)
+- GitHub链接：[https://github.com/HotBoy-java/PotatoTool/releases/tag/ReleaseV2.4](https://github.com/HotBoy-java/PotatoTool/releases/tag/ReleaseV2.4)
 - 启动命令后+debug，可打印解密报错，用于提交bug信息（例：java -jar xxx.jar debug）
 - **启动密码：potato520**
 
@@ -515,7 +515,7 @@
 
 # 九、获取方式
 
-- GitHub链接：[https://github.com/HotBoy-java/PotatoTool/releases/tag/Release](https://github.com/HotBoy-java/PotatoTool/releases/tag/Release)
+- GitHub链接：[https://github.com/HotBoy-java/PotatoTool/releases/tag/ReleaseV2.4](https://github.com/HotBoy-java/PotatoTool/releases/tag/ReleaseV2.4)
 - 推荐使用java11+，性能更高
 - 启动命令后+debug，可打印解密报错，用于提交bug信息（例：java -jar xxx.jar debug）
 - **启动密码：potato520**
